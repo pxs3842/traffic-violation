@@ -6,7 +6,7 @@ Pattern detection for various kinds of traffic violations due to numerous reason
 
 Files:
 
-1. Raw data - TrafficViolations.csv \n
+1. Raw data - TrafficViolations.csv 
 2. Classification Algorithms - Classification_Algorithms.ipynb
 3. SVM Implementaion and Tuning - SVM_Tunning.ipynb
 4. Report - Report-Traffic Violation
